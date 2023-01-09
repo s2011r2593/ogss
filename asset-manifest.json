@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ogss/static/js/main.9b88f810.js",
+    "index.html": "/ogss/index.html",
+    "main.9b88f810.js.map": "/ogss/static/js/main.9b88f810.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9b88f810.js"
+  ]
+}
